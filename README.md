@@ -4,8 +4,8 @@ This repository provides an overview of my self-programmed LuaRT desktop applica
 
 | Repository  | Description |
 | --- | --- |
-| [ecSerialLogger](https://github.com/esferatec/ec-serial-logger) | The ecSerialLogger application is a specialized tool for monitoring and logging communication via serial COM ports. The received data can be saved in a text file. |
-| [ecSerialMonitor](https://github.com/esferatec/ec-serial-monitor) | The ecSerialMonitor application is a specialized tool for monitoring  communication via serial COM ports. The data received is displayed on the screen. |
+| [ecSerialLogger](https://github.com/esferatec/ec-serial-logger) | The ecSerialLogger application is a specialized tool for logging communication via serial COM ports. The received data can be saved in a text file. |
+| [ecSerialMonitor](https://github.com/esferatec/ec-serial-monitor) | The ecSerialMonitor application is a specialized tool for monitoring  communication via serial COM ports. The received data is displayed on the screen. |
 
 ## License
 
